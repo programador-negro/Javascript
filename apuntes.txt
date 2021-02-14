@@ -1,0 +1,14 @@
+
+
+
+
+Funciones predefinidas:
+
+Number() - 'convierte un texto numerico a tipo numero'
+parseInt() - 'convierte numero decimal a entero'
+parseFloat() - 'conviente entero a decimal'
+String(parametro) - convierte a String
+
+
+
+
